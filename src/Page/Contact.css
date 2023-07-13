@@ -1,0 +1,9 @@
+.infodiv{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+    margin-bottom: 38px;
+    margin-top: 34px;
+    margin-left: 119px;
+    padding-bottom: 19px;
+}

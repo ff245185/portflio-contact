@@ -1,0 +1,13 @@
+.btn{
+    color: aliceblue;
+    background-color: rgb(43, 209, 201);
+    border-radius: 7px;
+    color: rgb(46, 37, 37);
+}
+.btn:hover{
+    background-color: rgb(23, 238, 202);
+    color: black;
+}
+.wlc{
+    color: rgb(46, 221, 221);
+}
