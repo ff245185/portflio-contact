@@ -1,0 +1,14 @@
+.demop-p{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 53px;
+    margin-bottom: 54px;
+    margin-top: 42px;
+    padding-bottom: 12px;
+    
+}
+.card{
+    margin-bottom: 17px;
+   
+     border: 1px solid rgb(34, 202, 231);
+}

@@ -11,3 +11,10 @@
 .wlc{
     color: rgb(46, 221, 221);
 }
+.hero{
+    background: linear-gradient( to right
+      red
+      orange
+      green
+    )
+}
