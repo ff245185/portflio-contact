@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css'
 import { Link } from 'react-router-dom';
+
 const Home = () => {
     return (
         <div  className="hero min-h-screen bg-base-200">
@@ -12,7 +13,9 @@ const Home = () => {
                     <Link className='btn' to={"/contact"}>Contact us</Link>
                 </div>
             </div>
+         
         </div>
+        
     );
 };
 
