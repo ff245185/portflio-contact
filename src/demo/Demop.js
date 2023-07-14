@@ -2,7 +2,7 @@ import React from 'react';
 import './Demop.css';
 const Demop = () => {
     return (
-        <div className='demop-p'>
+        <div className='demop-p grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3'>
             {/* 1 */}
             <div className="card w-96 glass">
                 <figure><img src="https://bootstrapmade.com/content/templatefiles/Arsha/Arsha-bootstrap-website-template-md.webp" alt="car!" /></figure>
