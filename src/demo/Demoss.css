@@ -1,14 +1,8 @@
-.demop-p{
-   
+.cardst{
+    border: 1px solid rgb(21, 114, 151);
     margin-left: 53px;
     margin-bottom: 54px;
     margin-top: 42px;
     padding-bottom: 12px;
     border-radius: 6px;
-    
-}
-.card{
-    margin-bottom: 17px;
-   
-     border: 1px solid rgb(34, 202, 231);
 }

@@ -4,6 +4,7 @@ import Navbar from "../Page/Navbar";
 import Home from "../Page/Homet";
 import Contact from "../Page/Contact";
 import Demop from "../demo/Demop";
+import Demoss from "../demo/Demoss";
 
 export const router = createBrowserRouter([
     {
@@ -21,6 +22,10 @@ export const router = createBrowserRouter([
             {
                 path:'/demop',
                 element:<Demop></Demop>
+            },
+            {
+                path:'/demoss',
+                element:<Demoss></Demoss>
             }
            
         ]
