@@ -6,3 +6,11 @@
     padding-bottom: 12px;
     border-radius: 6px;
 }
+.xyno{
+    margin-top: 42px;
+    margin-bottom: 54px;
+    background-image: linear-gradient(to left, rgba(148, 255, 25, 0.589), rgb(111, 216, 248));
+    border: 1px solid rgba(172, 255, 140, 0.753);
+    border-radius: 9px;
+    color: black;
+}

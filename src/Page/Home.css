@@ -12,9 +12,13 @@
     color: rgb(46, 221, 221);
 }
 .hero{
-    background: linear-gradient( to right
-      red
-      orange
-      green
-    )
-}
+    background-image: linear-gradient(to left, rgba(148, 255, 25, 0.589), rgb(111, 216, 248));
+    border: 1px solid rgba(172, 255, 140, 0.753);
+    border-radius: 9px;
+  }
+  .footer{
+    background-image: linear-gradient(to left, rgba(148, 255, 25, 0.589), rgb(111, 216, 248));
+    border: 1px solid rgba(172, 255, 140, 0.753);
+    border-radius: 9px;
+    color: black;
+  }

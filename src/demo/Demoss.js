@@ -2,7 +2,8 @@ import React from 'react';
 import './Demoss.css';
 const Demoss = () => {
     return (
-        <div className='cardss grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3'>
+        <div className='xyno'>
+            <div className='cardss grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3'>
             {/* 1 */}
             <div className="cardst w-96 bg-base-100 shadow-xl image-full">
                 <figure><img src="https://github.com/ff245185/payload/blob/main/1.jpg?raw=true" alt="Shoes" /></figure>
@@ -38,6 +39,7 @@ const Demoss = () => {
             {/* 7 */}
             {/* 8 */}
             {/* 9 */}
+        </div>
         </div>
     );
 };
