@@ -10,9 +10,9 @@ const Navbar = () => {
 
                     </label>
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-                        <li><Link>Home</Link></li>
-                        <li><Link>Demo Project</Link></li>
-                        <li><Link>demo ss</Link></li>
+                        <li><Link >Home</Link></li>
+                        <li><Link to={'/demop'}>Demo Project</Link></li>
+                        <li><Link to={'/demoss'}>demo ss</Link></li>
                     </ul>
                 </div>
                 <Link className="btn btn-ghost normal-case text-xl">Tecno Graphy</Link>
