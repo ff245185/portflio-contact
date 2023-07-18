@@ -9,7 +9,7 @@ const Cont = () => {
                     <h2 className="card-title">Whatsapp!</h2>
                     <p>you can contact  us on our whatsapp</p>
                     <div className="card-actions justify-end">
-                        <button className="btn btn-primary"><a href='https://api.whatsapp.com/send/?phone=8801721348084&text&type=phone_number&app_absent=0'>contact us</a></button>
+                        <button className="btn btn-primary"><a  target="_blank" href='https://api.whatsapp.com/send/?phone=8801721348084&text&type=phone_number&app_absent=0'>contact us</a></button>
                     </div>
                 </div>
             </div>
@@ -21,7 +21,7 @@ const Cont = () => {
                     <h2 className="card-title">Facrbook</h2>
                     <p>you can contact  us on our facebook</p>
                     <div className="card-actions justify-end">
-                        <button className="btn btn-primary"><a href='https://www.facebook.com/profile.php?id=100088709946078'>contact us</a></button>
+                        <button className="btn btn-primary"><a  target="_blank" href='https://www.facebook.com/profile.php?id=100088709946078'>contact us</a></button>
                     </div>
                 </div>
             </div>
