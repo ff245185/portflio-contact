@@ -11,7 +11,7 @@ const Demop = () => {
                         <h2 className="card-title">New air pods</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57b01b07d202e1c67efc0--unique-twilight-d4850e.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57b01b07d202e1c67efc0--unique-twilight-d4850e.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -24,7 +24,7 @@ const Demop = () => {
                         <h2 className="card-title">Animated React Website</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57d4ecd662a3436e3ea70--enchanting-brigadeiros-78f5b6.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57d4ecd662a3436e3ea70--enchanting-brigadeiros-78f5b6.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ const Demop = () => {
                         <h2 className="card-title">New ecommers website</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57ba047333e36daa5b171--effervescent-kangaroo-35354d.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57ba047333e36daa5b171--effervescent-kangaroo-35354d.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ const Demop = () => {
                         <h2 className="card-title">E-commerce Website js 2</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57bfa9c70b33474e8fa08--astonishing-bublanina-78d4b7.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57bfa9c70b33474e8fa08--astonishing-bublanina-78d4b7.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ const Demop = () => {
                         <h2 className="card-title">New monu</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57c2b47333e3747a5b182--incredible-griffin-c09406.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57c2b47333e3747a5b182--incredible-griffin-c09406.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ const Demop = () => {
                         <h2 className="card-title">New movie website</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57c6fa03fbc347d5d5a00--clinquant-kheer-147ecb.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57c6fa03fbc347d5d5a00--clinquant-kheer-147ecb.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ const Demop = () => {
                         <h2 className="card-title">Travel Website js 3</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57ca0ddd52a2d2a2bce91--clinquant-horse-f31f83.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57ca0ddd52a2d2a2bce91--clinquant-horse-f31f83.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@ const Demop = () => {
                         <h2 className="card-title">New watch sell</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57cfe29134e373325a885--snazzy-brioche-ca24f1.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57cfe29134e373325a885--snazzy-brioche-ca24f1.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ const Demop = () => {
                         <h2 className="card-title">New alam portflio</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57dae29134e376a25a636--visionary-fairy-19ece8.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57dae29134e376a25a636--visionary-fairy-19ece8.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@ const Demop = () => {
                         <h2 className="card-title">Book Search Website</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57de08badf834b28aaf2f--jovial-treacle-e95439.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57de08badf834b28aaf2f--jovial-treacle-e95439.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@ const Demop = () => {
                         <h2 className="card-title">New food master</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57e2da03fbc354c5d58be--lambent-pony-1816ef.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57e2da03fbc354c5d58be--lambent-pony-1816ef.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -145,7 +145,7 @@ const Demop = () => {
                         <h2 className="card-title">New Admin panel</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57e668badf8350f8aaece--gilded-tanuki-f552b2.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57e668badf8350f8aaece--gilded-tanuki-f552b2.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -157,7 +157,7 @@ const Demop = () => {
                         <h2 className="card-title">New rdx toolkit</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57e94994bf63546715a48--whimsical-hotteok-2c887c.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57e94994bf63546715a48--whimsical-hotteok-2c887c.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@ const Demop = () => {
                         <h2 className="card-title">New udamy clone</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b57f47994bf63634715bdf--whimsical-pudding-1a02b9.netlify.app'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b57f47994bf63634715bdf--whimsical-pudding-1a02b9.netlify.app'>See This</a>
                         </div>
                     </div>
                 </div>
@@ -182,7 +182,7 @@ const Demop = () => {
                         <h2 className="card-title">New Golfball</h2>
                         <p>See this the demo project,  is just a demo</p>
                         <div className="card-actions justify-end">
-                        <a className='btn btn-primary' href='https://64b586fa32002337170f14e1--deft-churros-f9ebb8.netlify.app/'>See This</a>
+                        <a target="_blank" className='btn btn-primary' href='https://64b586fa32002337170f14e1--deft-churros-f9ebb8.netlify.app/'>See This</a>
                         </div>
                     </div>
                 </div>
