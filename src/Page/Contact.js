@@ -2,7 +2,7 @@ import React from 'react';
 import './Contact.css';
 const Contact = () => {
     return (
-        <div className='infodiv'>
+        <div className='infodiv grid md:grid-cols-1 lg:grid-cols-2 sm:grid-cols-1'>
             {/* fast card */}
             <div className="card w-96 bg-base-100 shadow-xl image-full">
                 <figure><img src="https://e0.pxfuel.com/wallpapers/259/890/desktop-wallpaper-whatsapp-brand-resources-whatsapp-icon.jpg" alt="Shoes" /></figure>
